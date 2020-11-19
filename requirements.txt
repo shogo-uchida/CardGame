@@ -1,3 +1,4 @@
+random == 9.6
 functools
 browser
 time
